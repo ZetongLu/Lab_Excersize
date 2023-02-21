@@ -1,0 +1,45 @@
+/*LOCAL*/
+#main_title {
+    height:50px;
+    width: 530px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid rgb(10, 90, 41);
+    background-color: rgb(123, 255, 0);
+}
+/*LOCAL*/
+/*opacity changes the opacity of the picture*/
+.picture1 {
+    width:630px ;
+    height: 360px;
+    padding: 20px;
+    opacity: 0.8;
+    
+}
+/*LOCAL*/
+.picture2 {
+    height : 300px;
+    width: 300px;
+    opacity: 0.8;
+    
+    
+}
+
+/*LOCAL*/
+/*changes its color!!! by using linear_gradient*/
+.box {
+    height:400px;
+    width: 700px;
+    padding: 20px;
+    margin: 50px;
+    border: 10px solid blue;
+    background-color: rgb(164, 255, 255);
+    background-image: linear-gradient(red, yellow);
+}
+/*global*/
+/*USING TEXT ALIGN TO PUT INTEXT TO CENTURE*/
+.brown {
+    color:brown;
+    text-align: center;
+    border: 3px solid brown;
+}
